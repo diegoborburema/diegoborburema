@@ -8,7 +8,10 @@ Gerente de produtos de dados e engenheiro de formação. Construo agentes de IA 
 - 🧪 **Agente tratado como produto**: versão, notas de decisão e perguntas de controle a cada mudança
 
 ### Comece por aqui
-🚧 **kit-de-produto-com-ia**: a caixa de ferramentas aberta. Chega em breve.
+- 🤖 [**kit-agentes-de-ia**](https://github.com/diegoborburema/kit-agentes-de-ia): coach de apresentação, redator de atas e o método para versionar e testar agentes
+- 🧩 [**kit-apps-de-um-arquivo**](https://github.com/diegoborburema/kit-apps-de-um-arquivo): apps em um único HTML, como o montador de times de hackathon
+
+Não precisa saber git: cada pasta tem um passo a passo.
 
 ### No que eu trabalho
 - Portfólio de produtos de dados, do discovery à operação
